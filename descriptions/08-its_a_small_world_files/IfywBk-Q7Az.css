@@ -1,0 +1,114 @@
+/*1311699199,176833975*/
+
+#badge_subheader{padding:0 10px 5px 10px}
+#badge_subheader h2{color:#3b5998;display:inline;font-size: 11px}
+#badges{padding:5px 10px}
+.blog_buttons_form{display:inline}
+.badge_holder p{margin:-3px 0 5px 0}
+.badge_holder{margin:5px;padding:10px;border:1px solid #ccc;background:#fff}
+.bh_badge{width:200px;height:100px;float:left;overflow:hidden}
+.dialog_body{overflow:auto;max-height:400px}
+.preview_popup{padding:10px}
+.preview_badge{width:200px;margin:0 16px 0 0;float:left}
+.badge_desc{float:left;width:380px}
+.badge_holder td{width:100%;margin:0;padding:0;border:0}
+.other_desc{overflow:hidden;width:320px}
+.other_desc p{padding:0;margin:0;font-weight:bold}
+.badge_html_box{width:250px;margin:5px 0 7px 0}
+.badge_holder h2{color:#3b5998;display:inline}
+.explanation{padding:0 180px 12px 22px}
+.badge_holder .actions{vertical-align:top;width:120px;margin-left:10px}
+.badge_holder .actions a{display:block;margin:0;padding:2px 4px;border-bottom:solid 1px #d8dfea}
+.badge_holder .actions a:hover{color:#fff;background:#3b5998;text-decoration:none}
+#horiz_preview_area{width:360px;max-height:104px;overflow:auto}
+#preview_area{float:right;overflow:auto}
+#bigger_badge_box{float:left;width:480px}
+#smaller_badge_box{float:left;margin-right:6px;width:255px}
+.item_selector{margin-bottom:6px}
+#end_item_selector{margin:0;margin-top:-18px;height:12px}
+.description{font-size: 14px;font-weight:bold;padding:0 0 5px}
+.description h3{font-weight:lighter;display:inline}
+#save_instruction{width:400px}
+.aim_link{background:#f7f7f7;border-top:1px solid #ccc;clear:both;color:#333;font-size: 9px;padding:5px 5px;text-align:center;margin:10px 0 0 0}
+.aim_link span{color:#000;display:block;font-size: 11px}
+.connect_widget{padding:10px 20px 25px}
+.connect_widget div.options{float:left;width:405px}
+.connect_widget div.options-pagelike{float:left}
+.connect_widget .textarea{width:250px;margin:5px 0 7px 0}
+.connect_widget .selector{font-size: 13px;width:160px;margin:0 10px}
+.connect_widget .preview_container{float:right;margin:0 0 0 20px}
+.preview_likebadge{width:200px}
+.no_js .show_if_no_js{display:inline}
+.show_if_no_js{display:none}
+.connect_widget .hidden{display:none}
+.connect_widget .description{padding:0 0 10px 0;font-size: 16px;font-weight:bold;line-height:25px}
+.connect_widget .description_small{padding:0 0 10px 0;font-size: 12px;font-weight:bold;line-height:25px}
+.connect_widget .blog_buttons_form{display:inline}
+.connect_widget .add_button_desc{width:320px;overflow:hidden}
+.connect_widget .add_button_desc p{padding:0;margin:0;font-weight:bold}
+.publish_page_desc{width:320px;overflow:hidden;margin-bottom:10px}
+.connect_widget .addbox{padding:50px 0 20px 0}
+.connect_widget .addbox-pagelike{padding:20px 0 20px 0}
+.no_page_text{padding:10px 10px 40px 10px}
+.UIFilterList_ListTitle{font-weight:bold;padding:0 0 4px 2px}
+.UIFilterList_BottomMargin{padding-bottom:20px}
+.UIFilterList_Footer,.UIFilterList_EditLink{border-top:1px solid #d6d9de;display:none;font-size: 9px;font-weight:bold;padding:4px 6px 4px 5px;position:relative}
+.UIFilterList_Create{float:right}
+.UIFilterList_Plus,.UIMutableFilterList_Arrow{background:transparent url(http://static.ak.fbcdn.net/rsrc.php/v1/yi/r/8OjNXDy3pHp.gif) no-repeat;display:inline-block;height:10px;margin:0 3px 0 0;padding-left:7px}
+.UIFilterList_Plus{background-position:-232px -87px}
+.UIFilterList_BlankState{border-top:1px solid #ddd;color:#666;display:none;line-height:16px;padding:5px 3px}
+.UIFilterList_HasBlankState .UIFilterList_BlankState{display:block}
+.UIFilterList_List{display:block;margin:0;padding:0}
+.UIFilterList_HasBlankState .UIFilterList_List{display:none}
+.UIFilterList_Item{display:block;margin:0;overflow:hidden;position:relative}
+.UIFilterList_Icon{background-position:top right;background-repeat:no-repeat;display:block;height:16px;width:16px}
+.selected .UIFilterList_Icon{background-position:top left}
+.UIFilterList_EditIcon{display:none}
+.UIFilterList .selected{background-color:#6d84b4;border:1px solid #3b5998;padding-left:1px}
+.selected .UIFilterList_EditIcon{background:transparent url(http://static.ak.fbcdn.net/rsrc.php/v1/yn/r/7XSngI8jDpL.gif) no-repeat 0 -70px;cursor:pointer;display:block;height:16px;left:auto;position:absolute;right:4px;top:4px;width:16px;z-index:1}
+.selected .UIFilterList_EditIcon:hover{background-position:0 -54px}
+.UIFilterList_ItemLink{border-top:1px solid #d6d9de;color:#333;display:block;overflow:hidden;padding:5px 0 4px 5px;text-overflow:ellipsis}
+.UIFilterList_Item .UIFilterList_TitleWithoutIcon{padding-top:6px}
+.UIFilterList_Item .UIFilterList_Title{font-weight:normal}
+.UIFilterList_Item .UIFilterList_ItemLink:hover{background-color:#eceef4;text-decoration:none}
+.selected .UIFilterList_ItemLink:hover{background-color:transparent}
+.selected .UIFilterList_ItemLink{border-top:0 none;padding-left:3px;padding-top:4px}
+.selected .UIFilterList_TitleWithoutIcon{padding-top:5px}
+.selected .UIFilterList_Title{color:#fff}
+.selected .UIFilterList_HasEditIcon{padding-right:19px}
+.selected .UIFilterList_LoadingIndicator{background:transparent url(http://static.ak.fbcdn.net/rsrc.php/v1/y-/r/AGUNXgX_Wx3.gif) top left no-repeat;display:none;height:11px;position:absolute;right:10px;top:7px;width:16px;z-index:2}
+.UIFilterList_Loading .selected .UIFilterList_LoadingIndicator{display:block}
+.UIFilterList_Loading .selected .UIFilterList_EditIcon{display:none}
+.UIFilterList_Loading .selected{padding-right:31px}
+.safari3 .UIFilterList_Loading .selected .UIFilterList_ItemLink{padding-right:25px}
+.UIFilterList_Button{padding-left:3px;padding-top:5px}
+.UIFilterList_CreateLink{display:block;padding-bottom:5px;padding-top:3px}
+.UIFilterList_DragHandle{background:url(http://static.ak.fbcdn.net/rsrc.php/v1/yn/r/7XSngI8jDpL.gif) no-repeat -16px -70px;cursor:move;display:none;height:16px;position:absolute;right:5px;top:7px;width:16px;z-index:1}
+.selected .UIFilterList_DragHandle{background-position:-16px -56px}
+.UIFilterList_EditMode .UIFilterList_DragHandle,.UIFilterList_EditLink,.UIFilterList_EditMode .UIFilterList_Footer{display:block}
+.UIFilterList_Loading .selected .UIFilterList_DragHandle,.UIFilterList_EditMode .UIFilterList_EditLink{display:none}
+.UIFilterList_NoBorder{border:none}
+.UIFilterList_EditMode .UIFilterList_ItemLink{padding-right:25px}
+.UIFilterList_EditMode .UIFilterList_Title{display:block;overflow:hidden;text-overflow:ellipsis}
+.UIFilterList_ShowHiddenSection .UIMutableFilterList_HiddenSection{display:block}
+.UIMutableFilterList_HiddenSection,.UIFilterList_ShowHiddenSection .UIFilterList_EditLink{display:none}
+.UIMutableFilterList_Separator{border-top:1px solid #b3b3b3;height:1px}
+.UITabStructure_Container{margin:0;padding:3px 0}
+.UITabStructure_BottomBorder{border-bottom:1px solid #898989}
+.UITabStructure_Left{padding-left:10px;float:left}
+.UITabStructure_Right{padding-right:10px;float:right}
+.UITabStructure_FullBleed{padding:0}
+.UITabStructure_Tabs{text-align:center}
+.UITabStructure_Tabs li{display:inline;padding:2px 0 3px;background:#f1f1f1 url(http://static.ak.fbcdn.net/rsrc.php/v1/ys/r/YoX0fw76s5z.gif) top left repeat-x;font-size: 13px}
+.UITabStructure_Tabs li a{border:1px solid #898989;border-left:0;color:#333;font-weight:bold;padding:2px 8px 3px 9px}
+.UITabStructure_Tabs li a:focus{outline:0}
+.UITabStructure_Tabs li.UITabStructure_TabFirst a{border:1px solid #898989}
+.UITabStructure_Tabs li a.UITabStructure_TabSelected{margin-left:-1px;background:#6d84b4;border:1px solid #3b5998;border-left:1px solid #5973a9;border-right:1px solid #5973a9;color:#fff}
+.UITabStructure_Tabs li.UITabStructure_TabLast a.UITabStructure_TabSelected{margin-left:-1px;border-left:1px solid #5973a9;border-right:1px solid #36538f}
+.UITabStructure_Tabs li.UITabStructure_TabFirst a.UITabStructure_TabSelected{margin:0;border-left:1px solid #36538f;border-right:1px solid #5973a9}
+.UITabStructure_Tabs li.UITabStructure_TabFirst.UITabStructure_TabLast a.UITabStructure_TabSelected{border:1px solid #36538f}
+.UITabStructure_Tabs li a.UITabStructure_TabSelected:hover{text-decoration:none}
+.UITabStructure_Tabs li a.UITabStructure_TabDisabled{color:#999;cursor:default}
+.UITabStructure_Tabs li a.UITabStructure_TabDisabled:hover{text-decoration:none}
+
+#bootloader_VOBWs { height: 42px; }
